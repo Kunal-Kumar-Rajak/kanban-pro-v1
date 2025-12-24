@@ -1,5 +1,8 @@
 # 🚀 Kanban Pro v1
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 A clean, modular **Kanban Board application** built using **Vanilla HTML, CSS, and JavaScript**, focused on real-world frontend fundamentals like state management, drag-and-drop logic, and maintainable code structure.
 
 **Author:** **Kunal Kumar**
