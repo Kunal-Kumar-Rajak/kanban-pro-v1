@@ -105,7 +105,7 @@ This is a **client-side frontend project**, intentionally kept simple and transp
 ## 👤 About the Developer
 
 **Kunal Kumar**  
-Computer Science & Engineering Student  
+Computer Science & Engineering Student 
 Frontend & Web Development Enthusiast
 
 - 🔗 GitHub: https://github.com/kunal-kumar-dev
